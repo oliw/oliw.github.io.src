@@ -1,0 +1,12 @@
+baseurl = "http://www.oliverwilkie.com/"
+languageCode = "en-us"
+title = "O."
+theme = "hyde"
+copyright = "Oliver Wilkie"
+
+[Author]
+      name = "Oliver Wilkie"
+
+[params]
+      description = "code by Oliver Wilkie"
+      twitter = "https://twitter.com/oliwilks"
