@@ -1,8 +1,8 @@
 +++
-date = "2016-05-26T17:03:46+01:00"
-draft = true
-title = "about"
-
+date = "2016-05-26T17:28:05+01:00"
+draft = false
+title = "About"
+menu = "main"
 +++
 
 I'm a Software Engineer @ Square, currently working on the suite of projects that power the Logistics for Caviar. I have competency in a variety of languages and frameworks with a particular focus on Java, Ruby, Python and Javascipt.

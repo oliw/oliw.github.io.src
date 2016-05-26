@@ -7,6 +7,12 @@ copyright = "Oliver Wilkie"
 [Author]
       name = "Oliver Wilkie"
 
+[Permalinks]
+      blog = "/:year/:month/:filename/"
+
+[taxonomies]
+      category = "categories"
+
 [params]
       description = "code by Oliver Wilkie"
       twitter = "https://twitter.com/oliwilks"
