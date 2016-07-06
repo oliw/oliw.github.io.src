@@ -1,7 +1,7 @@
 +++
 date = "2016-05-27T15:02:32+01:00"
 draft = false
-title = "pong"
+title = "Pong in < 250 lines of JS!"
 
 +++
 
