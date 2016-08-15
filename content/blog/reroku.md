@@ -1,6 +1,7 @@
 +++
 date = "2016-03-01T08:48:57-07:00"
 title = "Reroku (Heroku on a Raspberry Pi)"
+categories = ["Coding"]
 +++
 
 My team recently switched our applications from Heroku to barebones AWS. The experience made me truely appreciate just how effective Heroku is and how it has made deploying apps as painfree as could be. After all, what good is making an app if nobody can see it!
