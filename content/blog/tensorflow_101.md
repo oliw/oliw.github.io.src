@@ -2,7 +2,7 @@
 date = "2016-07-05T20:30:00-07:00"
 draft = false
 title = "Tensorflow 101"
-
+categories = [ "Coding" ]
 +++
 
 Tensorflow seems like a pretty exciting alternative to `scikit-learn` that works just as effectively for beginners as it does for pros.
