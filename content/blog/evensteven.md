@@ -5,6 +5,10 @@ title = "Even Steven - a group expenses app for iOS"
 
 {{< figure src="/evensteven-preview1.png" >}}
 
+**Update** Now available on the App Store!
+
+<a href="https://itunes.apple.com/us/app/even-steven-group-expenses/id1163572319?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
+
 Even Steven is a handy app that records group spending for events such as holidays and suggests who needs to pay what to whom in order to get even! 
 
 Even Steven is designed for iPhone and:
