@@ -1,4 +1,4 @@
-baseurl = "http://www.oliverwilkie.com/"
+baseurl = "https://www.oliverwilkie.com/"
 languageCode = "en-us"
 title = "O."
 theme = "hyde"
