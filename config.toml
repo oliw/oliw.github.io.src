@@ -1,6 +1,6 @@
 baseurl = "https://oliverwilkie.com/"
 languageCode = "en-us"
-title = "O."
+title = "Oliver Wilkie"
 theme = "hyde"
 copyright = "Oliver Wilkie"
 
@@ -8,11 +8,29 @@ copyright = "Oliver Wilkie"
       name = "Oliver Wilkie"
 
 [Permalinks]
-      blog = "/:year/:month/:filename/"
+      posts = "/:year/:month/:filename/"
 
 [taxonomies]
       category = "categories"
 
+[params.social]
+  twitter = "oliwilks"
+  github = "oliw"
+  linkedin = "owilkie"
+
 [params]
-      description = "coding and other projects by Oliver Wilkie"
+      description = "Software Engineer"
       twitter = "https://twitter.com/oliwilks"
+      themeColor = "theme-base-0b"
+
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = -110
+  [[menu.main]]
+    identifier = "reviews"
+    name = "Reviews"
+    url = "/reviews"
+    weight = -110
