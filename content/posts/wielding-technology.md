@@ -1,6 +1,7 @@
 +++
 date = "2020-09-01T17:28:05+01:00"
 title = "Wielding Technology"
+summary = "On the difference between wielding technology and using technology."
 +++
 
 Growing up in the 90s and early 00s, I feel like technology and I both had our growth spurts at the same time.
