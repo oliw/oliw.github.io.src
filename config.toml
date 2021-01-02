@@ -28,9 +28,9 @@ copyright = "Oliver Wilkie"
     identifier = "posts"
     name = "Posts"
     url = "/posts"
-    weight = -110
+    weight = -112
   [[menu.main]]
-    identifier = "reviews"
-    name = "Reviews"
-    url = "/reviews"
+    identifier = "portfolio"
+    name = "Projects"
     weight = -110
+    url = "/portfolio"

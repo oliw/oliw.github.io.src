@@ -2,12 +2,34 @@
 date = "2016-05-26T17:28:05+01:00"
 title = "About"
 menu = "main"
+showpagemeta = false
+showcomments = false
 +++
 
-Hi, I'm [Oli](https://twitter.com/oliwilks) and I [work as a software engineer](https://www.linkedin.com/in/owilkie/) in San Francisco.
+[I design and build software](https://www.linkedin.com/in/owilkie/) for myself and for emerging technology companies, mainly in San Francisco.
 
-I spend a lot of time writing ruby code for [Flexport](http://flexport.com/) to automate and scale tasks such as boat tracking, boat timetables and cost prediction. Before that I spent several years down the road at [Square](https://squareup.com/) working on logistics problems. My primary focus wherever I go is getting stuff done by writing software efficiently and applying it wisely to areas that haven’t fully benefited from it so far.
+At [Flexport](http://flexport.com/) I have automated and scaled tasks such as boat tracking, boat timetables and cost prediction.
 
-I'm a believer in technology, but also [digital minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism), and am passionate about finding that [balance between the two](https://www.humanetech.com/).
+At [Square](https://squareup.com/) I have led the logistics and operations engineering teams responsible for Square's restaurant delivery product.
 
-I owe my footing in this world to loving parents, supportive teachers, a [Randy Pausch lecture](https://www.youtube.com/watch?v=ji5_MqicxSo) and the earnestness of youth which took me to London to study [Computing](https://www.imperial.ac.uk/computing) at Imperial College, then [France](https://en.wikipedia.org/wiki/Antibes) to intern (and have the summer of a lifetime) and then a pilgrimage to San Francisco which I've happily called home for the past six years.
+At [Imperial College London](https://www.imperial.ac.uk/computing) I studied Computing, Machine Learning and Computer Vision.
+
+I also make small, cheap and useful indie apps like [ThatThatThis](https://apps.apple.com/us/app/thatthatthis-decision-maker/id1529817354).
+
+My focus is getting stuff done by writing software efficiently and applying it wisely to areas that I believe haven’t fully benefited from it so far. I'm a believer in technology, but also [digital minimalism](https://www.goodreads.com/book/show/40672036-digital-minimalism), and am interested in the [balance between the two](https://www.humanetech.com/).
+
+I'm British. I've lived in the UK, France and currently live in the Bay Area. I'm a trail runner and a backpacker. One of my favorite annual adventures is finding and staying in remote old fire lookout towers.
+
+Get in touch! My email is my **first name and my last name at gmail dot com**
+
+### General Timeline
+
+- 1991: Born
+- 2009: Began studying Computing at Imperial College London
+- 2012: Moved to France for an internship writing code for an Airline IT company
+- 2013: Graduated with a 1st Class MEng Degree, Tried to start a startup
+- 2014: Moved to San Francisco, Joined Square as a New Grad
+- 2015: Promoted at Square
+- 2017: Promoted to Senior Software Engineer at Square
+- 2018: Promoted to Engineering Manager at Square
+- 2019: Finish at Square, Join Flexport as Senior Software Engineer
