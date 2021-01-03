@@ -1,6 +1,7 @@
 +++
 date = "2016-10-09T20:19:43-04:00"
 title = "Even Steven - a group expenses app for iOS"
+categories = ["Coding"]
 +++
 
 {{< figure src="/evensteven-preview1.png" >}}
@@ -9,7 +10,7 @@ title = "Even Steven - a group expenses app for iOS"
 
 <a href="https://itunes.apple.com/us/app/even-steven-group-expenses/id1163572319?mt=8" style="display:inline-block;overflow:hidden;background:url(//linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg) no-repeat;width:135px;height:40px;background-size:contain;"></a>
 
-Even Steven is a handy app that records group spending for events such as holidays and suggests who needs to pay what to whom in order to get even! 
+Even Steven is a handy app that records group spending for events such as holidays and suggests who needs to pay what to whom in order to get even!
 
 Even Steven is designed for iPhone and:
 

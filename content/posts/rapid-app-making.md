@@ -1,7 +1,8 @@
 +++
 date = "2020-08-29"
-title = "Lessons in App Development: Start Small"
+title = "Start Small"
 summary = "On the value of starting small, and saying no to new things to get things done."
+categories = ["Coding", "Learning"]
 +++
 
 Four years since [the first one]({{< ref "/posts/evensteven" >}} ""), I'm writing my second app.

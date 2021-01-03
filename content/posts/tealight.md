@@ -1,7 +1,7 @@
 +++
 date = "2016-08-14T17:33:43-07:00"
 title = "Walnut Tealight Holder"
-categories = ["Woodshop"]
+categories = ["DIY"]
 +++
 
 {{< figure src="/tealight.jpg" title="Walnut Tealight Holder">}}

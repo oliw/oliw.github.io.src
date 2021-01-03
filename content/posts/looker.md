@@ -3,6 +3,7 @@ title: "Looker might slow you down"
 date: 2020-06-29T21:33:47-07:00
 draft: false
 summary: "On the tradeoffs you make by adopting something like Looker at your company."
+categories: ["Companies"]
 ---
 
 At the beginning of this year the data analysts and engineers at my company undertook two large migration feats. They moved our data warehouse into Snowflake and secondly, they moved our analytics tooling away from Periscope and into Looker.

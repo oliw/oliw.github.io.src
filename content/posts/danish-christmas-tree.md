@@ -1,6 +1,7 @@
 +++
 title = "Danish Christmas Tree"
 date = "2016-12-22T14:28:56-08:00"
+categories = ["DIY"]
 +++
 
 {{<figure src="/tree.jpg">}}
@@ -14,10 +15,12 @@ The tree is collapsible (you just pull the branches out) which is useful for the
 {{<figure src="/base_of_tree.jpg">}}
 
 ### Lessons learned
+
 - Dowel is cheap
 - 25 hand-stiched ornaments can take a while
 - Once you're half way through you have to finish!
 
 ### Resources and References
+
 - [Nalle's House Blog](http://www.nalleshouse.com/2013/12/diy-danish-wooden-dowel-tree.html)
 - [Filigrantre](http://www.filigrantrae.dk/)

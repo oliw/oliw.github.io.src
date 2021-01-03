@@ -1,6 +1,7 @@
 +++
 title = "Hillbilly Eligy"
 date = "2017-01-08T16:44:36-08:00"
+categories = ["Reviews"]
 +++
 
 {{< figure src="https://images.gr-assets.com/books/1463569814l/27161156.jpg" >}}
