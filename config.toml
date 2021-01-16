@@ -23,6 +23,11 @@ copyright = "Oliver Wilkie"
       twitter = "https://twitter.com/oliwilks"
       themeColor = "theme-base-0b"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
   [[menu.main]]
     identifier = "posts"
