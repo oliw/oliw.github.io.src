@@ -1,0 +1,35 @@
+baseurl: "https://oliverwilkie.com/"
+languageCode: en-us
+title: Oliver Wilkie
+theme: hyde
+copyright: Oliver Wilkie
+Author:
+  name: Oliver Wilkie
+Permalinks:
+  posts: "/:year/:month/:filename/"
+taxonomies:
+  category: categories
+params:
+  social:
+    twitter: oliwilks
+    github: oliw
+    linkedin: owilkie
+  description: Software Engineer
+  twitter: "https://twitter.com/oliwilks"
+  themeColor: theme-base-0b
+  highlightjs: true
+  highlightjsstyle: rainbow
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+menu:
+  main:
+    - identifier: posts
+      name: Posts
+      url: /posts
+      weight: -112
+    - identifier: portfolio
+      name: Projects
+      weight: -110
+      url: /portfolio
