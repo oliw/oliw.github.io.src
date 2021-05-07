@@ -13,11 +13,7 @@ taxonomies:
 frontmatter:
   date:
     - date
-    - publishDate
-    - lastmod
-  lastmod:
     - :git
-    - lastmod
 params:
   social:
     twitter: oliwilks
