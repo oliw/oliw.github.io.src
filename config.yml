@@ -1,14 +1,23 @@
 baseurl: "https://oliverwilkie.com/"
 languageCode: en-us
 title: Oliver Wilkie
-theme: hyde
+theme: hyde-hyde
 copyright: Oliver Wilkie
+enableGitInfo: true
 Author:
   name: Oliver Wilkie
 Permalinks:
   posts: "/:year/:month/:filename/"
 taxonomies:
   category: categories
+frontmatter:
+  date:
+    - date
+    - publishDate
+    - lastmod
+  lastmod:
+    - :git
+    - lastmod
 params:
   social:
     twitter: oliwilks
@@ -33,3 +42,7 @@ menu:
       name: Projects
       weight: -110
       url: /portfolio
+    - identifier: lists
+      name: Lists
+      weight: -109
+      url: /lists
