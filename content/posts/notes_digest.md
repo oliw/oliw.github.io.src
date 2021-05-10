@@ -2,7 +2,7 @@
 title: "Clippings from my Apple Notes (2016-2021)"
 date: 2021-05-07T17:00:00-07:00
 draft: false
-summary: "Highlights from my Apple Notes between 2016 and 2020"
+summary: "It seems I like to dwell on Individualism and the Financialization of Society."
 ---
 
 Since 2016 I've logged about 2000 notes into my Notes app and a few nights ago I decided to have a clean up. Most of the notes could obviously be thrown out (shopping lists etc) but I decided about 150 were worth hanging onto! Many of those were clippings and excerpts from reading things online.
