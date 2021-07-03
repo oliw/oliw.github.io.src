@@ -5,4 +5,4 @@ draft: true
 
 # FAQS
 
-## What should go in index.tsx vs App.tsx?
+## What should go in index.tsx vs App.tsx??
