@@ -21,7 +21,7 @@ params:
     linkedin: owilkie
   description: Software Engineer
   twitter: "https://twitter.com/oliwilks"
-  themeColor: theme-base-0b
+  themeColor: theme-base-custom
   highlightjs: true
   highlightjsstyle: rainbow
 markup:
